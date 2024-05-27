@@ -1,8 +1,9 @@
 {
-  "name": "@uniswap/analytics",
-  "description": "Uniswap analytics",
-  "repository": "https://github.com/Uniswap/analytics",
+  "name": "depin-dex-analytics",
+  "description": "Depin-Dex analytics",
+  "repository": "https://github.com/Depin842/depinDex-analytics.git",
   "license": "MIT",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
